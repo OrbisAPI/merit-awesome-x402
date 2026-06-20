@@ -24,6 +24,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Ecosystem
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
+- [Orbis API Marketplace](https://orbisapi.com) — 8,000+ APIs accessible via x402 USDC micropayments on Base (eip155:8453) and Solana mainnet. No API keys; pay per request from any wallet.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
 
 ### Facilitators & Networks
@@ -32,6 +33,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [Orbis Facilitator (Base + Solana)](https://orbisapi.com) — Hosted marketplace facilitator supporting Base USDC and Solana mainnet USDC; feePayer sponsorship so Solana callers need only USDC, no SOL.
 
 
 ### Open Source & SDKs
